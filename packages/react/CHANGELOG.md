@@ -1,5 +1,11 @@
 # @xyflow/react
 
+## 12.3.1
+
+### Patch Changes
+
+- [#4653](https://github.com/xyflow/xyflow/pull/4653) [`02390f99`](https://github.com/xyflow/xyflow/commit/02390f9966d51c80e4e1b488733b5bf7322ad710) Thanks [@bcakmakoglu](https://github.com/bcakmakoglu)! - Calculate viewport dimensions in fitView instead of using stored dimensions. Fixes [#4652](https://github.com/xyflow/xyflow/issues/4652)
+
 ## 12.3.0
 
 ### Minor Changes
